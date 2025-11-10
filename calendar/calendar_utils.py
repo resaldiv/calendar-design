@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple Calendar Utilities Script
+Basic Calendar Utilities Script
 
 This script provides basic calendar functionality including:
 - Display current month calendar
